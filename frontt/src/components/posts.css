@@ -1,0 +1,33 @@
+.post{
+    margin-top: 20px;
+    width: 60%;
+    height: 50vh;
+    position:sticky;
+    left:22%;
+    background-color: rgb(245, 212, 155);
+    color: rgb(119, 22, 22);
+}
+
+.author{
+    text-decoration: none;
+    color:rgb(9, 17, 63);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+
+}
+
+.title{
+    margin: 2px;
+    padding: 5px;
+    border-bottom: 2px solid black;
+    width: 119vh;
+    border-top:2px solid black ;
+}
+
+.content{
+ 
+    position: absolute;
+    left: 0;
+
+    
+}

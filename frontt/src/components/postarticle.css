@@ -1,0 +1,45 @@
+.post-body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.article-title{
+    color: rgb(9,15,63);
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: large;
+    border-color:rgb(1, 1, 105) ;
+}
+
+.article-content{
+    color: rgb(9,15,63);
+    padding: 5px;
+    margin-bottom: 20px;
+    border-color: rgb(1, 1, 105);
+}
+
+input[type="submit"]{
+    width: 50%;
+    height: 50px;
+    border: 1px solid;
+    background: rgb(9, 17, 63);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+}
+input[type="submit"]:hover{
+    border-color:rgb(43, 7, 7) ;
+    transition: .5s;
+}
+
+.h2{
+    color: rgb(9,15,63);
+    font-family: Arial;
+    
+}
